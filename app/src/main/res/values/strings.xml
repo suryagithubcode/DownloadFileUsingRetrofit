@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadFileUsingRetrofit</string>
+    <string name="firsttimeprefs">firstTimePrefs</string>
+    <string name="isfirsttime">isFirstTime</string>
+</resources>
